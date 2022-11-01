@@ -10,7 +10,7 @@ Site feito com a objetivo de divulgar quem sou eu e algumas características do 
 
 #
 ##Tecnologias Usadas
-
+-
 -Html 5
 -Css
 -Responsividade
