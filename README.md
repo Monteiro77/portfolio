@@ -8,10 +8,13 @@
 ## Sobre
 Site feito com a objetivo de divulgar quem sou eu e algumas características do mesmo
 
-#
-##Tecnologias Usadas
--
--Html 5
--Css
--Responsividade
--Marckdown
+## Tecnologia utilizidas
+- HTML5
+- CSS3
+- Responsividade
+- Markdowns
+
+---
+
+## Autor
+- [Vinícius Monteiro](https://github.com/Monteiro77)
