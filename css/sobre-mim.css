@@ -76,6 +76,10 @@
     font-weight: 700;
 }
 
+.skills__icon img {
+    color: #fff;
+}
+
 /*TABLET*/
 @media (max-width: 960px) {
     .sobre-mim .section-title {
